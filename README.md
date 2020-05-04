@@ -1,6 +1,6 @@
 # Building Cells: Getter and Setter Methods
 
-## Learning Goals
+## Learning Goals     
 
 - Builds getter and setter methods to calculate computed properties
 
